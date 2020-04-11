@@ -1,0 +1,16 @@
+---------------
+Sample log file
+---------------
+
+[debug] 2020-01-01T00:02:48.465789Z Login application
+[debug] 2020-01-01T00:02:49.478789Z Cache application
+[debug] 2020-01-01T00:02:52.235789Z Process application
+[debug] 2020-01-01T00:05:56.144789Z Logout application
+[debug] 2020-01-01T01:02:48.465789Z Login application
+[debug] 2020-01-01T01:02:49.478789Z Cache application
+[debug] 2020-01-01T01:02:52.235789Z Process application
+[debug] 2020-01-01T01:05:56.144789Z Logout application
+[debug] 2020-01-01T02:02:48.465789Z Login application
+[debug] 2020-01-01T02:02:49.478789Z Cache application
+[debug] 2020-01-01T02:02:52.235789Z Process application
+[debug] 2020-01-01T02:05:56.144789Z Logout application
